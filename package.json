@@ -1,0 +1,28 @@
+{
+  "name": "datasender",
+  "version": "0.0.1",
+  "description": "An API made for you share data and codes from any code to other.",
+  "main": "datasender.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akkui/datasender.git"
+  },
+  "keywords": [
+    "Data",
+    "Share",
+    "JavaScript",
+    "Back-end"
+  ],
+  "author": "akkui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akkui/datasender/issues"
+  },
+  "homepage": "https://github.com/akkui/datasender#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
